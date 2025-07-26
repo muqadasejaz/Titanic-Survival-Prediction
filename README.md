@@ -98,6 +98,9 @@ The model is trained on the famous Titanic dataset from Kaggle and achieves an a
 
   <img width="1081" height="301" alt="Classification_report" src="https://github.com/user-attachments/assets/687a2644-538c-4e0f-a248-a4862a6d7f0b" />
 
+- Predictions:
+
+  <img width="811" height="236" alt="predictions" src="https://github.com/user-attachments/assets/4f4affcb-e12c-423b-9c78-4df3d15669b1" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
