@@ -7,7 +7,7 @@ A machine learning project that predicts whether a passenger would survive the T
 ## 📌 Overview
 
 This project applies data science and machine learning techniques to predict survival outcomes for Titanic passengers based on demographic and ticket information.  
-It follows a full machine learning pipeline — from data preprocessing, visualization, feature engineering, model training, to real-time prediction.
+It follows a full machine learning pipeline , from data preprocessing, visualization, feature engineering, model training, to real-time prediction.
 
 The model is trained on the famous Titanic dataset from Kaggle and achieves an accuracy of **76%** using a Decision Tree Classifier.
 
